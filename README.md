@@ -87,17 +87,4 @@ Future research directions and improvements include:
 - Exploring perceptual metrics (e.g., SSIM, PSNR) for evaluation.
 - Expanding the training dataset for better generalization.
 
-## Getting Started
-
-To run the code and experiment with grayscale image colorization, follow these steps:
-
-1. Clone this repository.
-
-2. Install the required Python libraries using `pip install -r requirements.txt`.
-
-3. Download the ImageNet dataset or use your custom dataset for training.
-
-4. Modify the dataset paths and hyperparameters in the code to suit your needs.
-
-5. Train the model and evaluate its performance.
 
